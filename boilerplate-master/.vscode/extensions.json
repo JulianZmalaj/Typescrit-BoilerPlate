@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "ms-vscode.vscode-typescript-next",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "mkaufman.HTMLHint",
+    "dsznajder.es7-react-js-snippets",
+    "vscodeshift.mui-snippets"
+  ]
+}

@@ -1,0 +1,8 @@
+@import "../../assets/styles/variables";
+
+.footer {
+  height: $footer-height;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(40, 44, 52, 1);
+}

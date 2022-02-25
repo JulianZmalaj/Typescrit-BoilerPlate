@@ -1,0 +1,28 @@
+{
+    "it": {
+        "header": {
+            "login": "Accedi",
+            "language": "Italiano"
+        },
+        "navbar": {
+            "home": "Pagina Iniziale",
+            "cart": "Carrello"
+        },
+        "content": {
+            "home": "Rotta della Pagina Iniziale"
+        }
+    },
+    "en": {
+        "header": {
+            "login": "Login",
+            "language": "English"
+        },
+        "navbar": {
+            "home": "Homepage",
+            "cart": "Shopping Cart"
+        },
+        "content": {
+            "home": "Homepage Route"
+        }
+    }
+}

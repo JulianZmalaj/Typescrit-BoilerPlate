@@ -1,0 +1,12 @@
+{
+    "it": {
+        "content": {
+            "404": "404 Non Trovato"
+        }
+    },
+    "en": {
+        "content": {
+            "404": "404 Not Found"
+        }
+    }
+}
